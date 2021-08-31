@@ -1,0 +1,6 @@
+projectKey=com.mangesh:java-web-project
+serverUrl=http://192.168.195.66:32768
+serverVersion=6.7.0.33306
+dashboardUrl=http://192.168.195.66:32768/dashboard/index/com.mangesh:java-web-project
+ceTaskId=AXucJthB1R1AWIRUDG58
+ceTaskUrl=http://192.168.195.66:32768/api/ce/task?id=AXucJthB1R1AWIRUDG58
